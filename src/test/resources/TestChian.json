@@ -1,0 +1,5 @@
+{
+  "initialValue": 10.0,
+  "operations": ["ADD", "MULTIPLY", "SUBTRACT"],
+  "numbers": [5.0, 2.0, 3.0]
+}
